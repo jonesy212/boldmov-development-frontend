@@ -1,6 +1,7 @@
 # boldmov-development-frontend
 
 BoldMov
+
 BoldMov is a software development service that helps you build a website that you can be proud of. We provide branding, design and UX, and development services to ensure that we meet all of your website-building needs.
 
 Technologies Used
